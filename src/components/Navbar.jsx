@@ -10,7 +10,7 @@ export default function Navbar() {
       </div>
       <div className='m-4 flex items-center justify-center text-xl gap-4'>
         <p className='text-white'>Join with </p>
-        <a href="https://discord.gg/kjGPYhywSA" target='blank'><FaDiscord className='text-3xl text-white'/></a>
+        <a href="https://discord.gg/kjGPYhywSA" target='blank'><FaDiscord className='text-3xl text-white hover:text-yellow-400'/></a>
       </div>
 
     </nav>
