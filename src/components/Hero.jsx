@@ -9,7 +9,7 @@ export default function Hero() {
             <div className='w-full lg:w-1/2'>
               <div className='flex flex-col items-center lg:items-start'>
                 <h1 className='pb-10 text-5xl font-thin tracking-tighter lg:mt-16 lg:text-7xl'>Jinad Induvidwa</h1>
-                <span className='bg-gradient-to-r from-yellow-100 via-yellow-200 to-yellow-300 text-3xl bg-clip-text tracking-tight text-transparent'>Full Stack Developer</span>
+                <span className='bg-gradient-to-r from-yellow-100 via-yellow-200 to-yellow-300 text-3xl bg-clip-text tracking-tight text-transparent'>Full Stack Developer | Graphic designer</span>
                 <p className='my-2 max-w-xl py-6 font-light tracking-tighter'>{HERO_CONTENT}</p>
               </div>
             </div>
