@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Technologies from './components/technologies';
+import ReachMe from './components/ReachMe'
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
         <Navbar />
         <Hero />
         <Technologies />
+        <ReachMe/>
       </div>
     </div>
   );
