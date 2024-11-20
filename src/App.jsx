@@ -8,14 +8,17 @@ import Journey from './components/Journey'
 export default function App() {
   return (
     <div className="min-h-screen relative overflow-x-hidden text-neutral-300 antialiased selection:text-yellow-500">
-      <div className="absolute top-0 z-[-2] min-h-full w-full bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]"></div>
-      <div className="container mx-auto px-8">
-        <Navbar />
-        <Hero />
+      
+      <div className="w-full px-0">
+        <div className="w-full bg-neutral-800 px-10">
+          <Navbar />
+          <Hero />
+        </div>
         <Technologies />
-        <ReachMe/>
-        <Journey/>
+        <ReachMe />
+        <Journey />
       </div>
     </div>
   );
 }
+
