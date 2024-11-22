@@ -36,7 +36,7 @@ export default function ReachMe() {
         </a>
 
         {/* YouTube */}
-        <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://youtube.com/@jinadinduvidwa?si=NgvY2xcI3w9-pb4V" target="_blank" rel="noopener noreferrer">
           <div className="group flex flex-col items-center justify-center w-60 h-60 rounded-xl border-4 border-neutral-800 hover:bg-neutral-800 hover:text-white transition duration-300">
             <FaYoutube className="text-7xl p-2 group-hover:text-yellow-500 transition duration-300" />
             <p className="text-center opacity-50 group-hover:opacity-100">Arch 64</p>
