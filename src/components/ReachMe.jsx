@@ -27,10 +27,10 @@ export default function ReachMe() {
         </a>
 
         {/* Medium */}
-        <a href="https://medium.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://medium.com/@jinadinduwidwa" target="_blank" rel="noopener noreferrer">
           <div className="group flex flex-col items-center justify-center w-60 h-60 rounded-xl border-4 border-neutral-800 hover:bg-neutral-800 hover:text-white transition duration-300">
             <FaMedium className="text-7xl p-2 group-hover:text-yellow-500 transition duration-300" />
-            <p className="text-center opacity-50 group-hover:opacity-100">Jinad Induvidwa</p>
+            <p className="text-center opacity-50 group-hover:opacity-100">Arch 64</p>
             <p className="text-center font-semibold font-serif">Tech Blogs</p>
           </div>
         </a>
